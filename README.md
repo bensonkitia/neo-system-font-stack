@@ -1,5 +1,7 @@
 # Neo-System Font Stack
 
+A better system font stack.
+
 ## Basic neo-system font stacks
 
 ### Sans-serif

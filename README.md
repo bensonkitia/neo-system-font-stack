@@ -44,6 +44,8 @@ System fonts are the fonts that users are used to seeing on their devices. This 
 
 ### Are there disadvantages to using system fonts?
 
+Sure! Here are some:
+
 * Specifying system fonts on some platforms is just weird. -apple-system and so on.
 * You can sometimes get another font of the same name that exists on someone's computer somewhere.
 * You can't demonstrate your world-class taste for pleasant typography selection.
